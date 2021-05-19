@@ -1,0 +1,20 @@
+{
+  "name": "@cursorsdottsx/e",
+  "version": "1.0.0",
+  "description": "Check if two values are equals with this small module (does not check properties that aren't enumerable)!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cursorsdottsx/e.git"
+  },
+  "keywords": [],
+  "author": "im-lonely <cursors.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cursorsdottsx/e/issues"
+  },
+  "homepage": "https://github.com/cursorsdottsx/e#readme"
+}
