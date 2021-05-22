@@ -1,6 +1,6 @@
 {
   "name": "@cursorsdottsx/e",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Check if two values are equals with this small module (does not check properties that aren't enumerable)!",
   "main": "index.js",
   "scripts": {
